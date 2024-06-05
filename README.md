@@ -9,28 +9,28 @@ We harnessed the power of advanced SQL concepts—Joins, Subqueries, CTEs, and W
 
 # Major Insights 🌟
 
-1. Market Presence 🌐
+1. Market Presence 🌐-: 
    Croma exclusively operated in the Indian market.
 
-2. Sales Growth 📈
+2. Sales Growth 📈-: 
    Croma India experienced a whopping 180% sales increase in FY 2021.
 
-3. Product Portfolio Expansion 🛍️
+3. Product Portfolio Expansion 🛍️-:
    The percentage of unique products increased by 36.33% in 2021 compared to 2020.
 
-4. Segment-wise Product Increase 🚀
+4. Segment-wise Product Increase 🚀-:
    Accessories and Networking segments saw the highest (34) and lowest (3) increase in unique products, respectively, in 2021 vs. 2020.
 
-5. Manufacturing Cost Variations 💰
+5. Manufacturing Cost Variations 💰-:
    AQ HOME Allin1 Gen 2 and AQ Master wired x1 Ms had the highest and lowest manufacturing costs, respectively.
 
-6. Top Customers and Discounts 🏷️
+6. Top Customers and Discounts 🏷️-:
    The top 5 customers with the highest average pre-invoice discount percentage in FY 2021 (India) were Flipkart, Viveks, Ezone, Croma, and Amazon.
 
-7. Product Quantity Sold 📦
+7. Product Quantity Sold 📦-:
    In FY 2020, Q1 (Sep-Nov 2019) and Q3 had the maximum and minimum sold quantity of products, respectively.
 
-8. Top Products in Divisions 🏆
+8. Top Products in Divisions 🏆-:
    For FY 2021, the top 3 products in the N&S, P&A, and PC divisions were pen drives, mouse, and personal laptops, respectively.
 
 # Conclusion 🌐
